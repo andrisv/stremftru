@@ -10,7 +10,7 @@ const builder = new addonBuilder({
     id: 'org.stremio.stremftru.addon',
     version: '1.0.0',
     name: 'stremftru',
-    description: 'Provides torrent streams from scraped fast-torent.ru',
+    description: 'Provides torrent streams from scraped fast-torents.ru',
 
     catalogs: [],
     resources: ['stream'],
